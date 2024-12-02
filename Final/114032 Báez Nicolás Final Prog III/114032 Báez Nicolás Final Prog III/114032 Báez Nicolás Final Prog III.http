@@ -1,0 +1,6 @@
+@_114032_Báez_Nicolás_Final_Prog_III_HostAddress = http://localhost:5253
+
+GET {{_114032_Báez_Nicolás_Final_Prog_III_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\implementaciones\\sucursalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\implementaciones\\sucursalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\interfaces\\isucursalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\interfaces\\isucursalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\interfaces\\iextrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\interfaces\\iextrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\implementaciones\\extrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\repositories\\implementaciones\\extrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\services\\implementaciones\\parcialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\services\\implementaciones\\parcialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\services\\interfaces\\iparcialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\services\\interfaces\\iparcialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\response\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\response\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\sucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\sucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\provincias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\provincias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\models\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\controllers\\parcialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\controllers\\parcialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\validators\\putsucursaldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\validators\\putsucursaldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getsucursalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getsucursalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\postsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\postsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\validators\\postsucursalesdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\validators\\postsucursalesdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\putsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\putsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\gettiposdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\gettiposdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getconfiguracionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getconfiguracionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|c:\\users\\niquitou\\desktop\\extra\\4) facultad\\prog iii\\final\\114032 b\u00E1ez nicol\u00E1s final prog iii\\114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getprovinciasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241E984-CE46-4FEF-8D9C-741E9EC5B6F7}|114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III.csproj|solutionrelative:114032 b\u00E1ez nicol\u00E1s final prog iii\\dominio\\getprovinciasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IParcialService.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Interfaces\\IParcialService.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Interfaces\\IParcialService.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Interfaces\\IParcialService.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Interfaces\\IParcialService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:53:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParcialService.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Implementaciones\\ParcialService.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Implementaciones\\ParcialService.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Implementaciones\\ParcialService.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Services\\Implementaciones\\ParcialService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAywA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:54:36.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:52:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISucursalesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\ISucursalesRepository.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\ISucursalesRepository.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\ISucursalesRepository.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\ISucursalesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:40:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExtraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\IExtraRepository.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\IExtraRepository.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\IExtraRepository.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Interfaces\\IExtraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:42:33.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\SucursalesRepository.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\SucursalesRepository.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\SucursalesRepository.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\SucursalesRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:42:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\ExtraRepository.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\ExtraRepository.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\ExtraRepository.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Repositories\\Implementaciones\\ExtraRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBAwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:50:31.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Program.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Program.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Program.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA3wCwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:01:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseReponse.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Response\\BaseReponse.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Response\\BaseReponse.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Response\\BaseReponse.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Response\\BaseReponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:53:26.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\appsettings.json",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\appsettings.json",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\appsettings.json",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T20:57:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\ContextDb.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\ContextDb.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\ContextDb.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:43:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sucursales.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Sucursales.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Sucursales.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Sucursales.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Sucursales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:43:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Tipos.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Tipos.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Tipos.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Tipos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:51:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Provincias.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Provincias.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Provincias.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Provincias.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Provincias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:51:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuraciones.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Configuraciones.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Configuraciones.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Configuraciones.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Models\\Configuraciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:52:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParcialController.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Controllers\\ParcialController.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Controllers\\ParcialController.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Controllers\\ParcialController.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Controllers\\ParcialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:02:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PutSucursalDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PutSucursalDtoValidator.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PutSucursalDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PutSucursalDtoValidator.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PutSucursalDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:31:02.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetSucursalesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetSucursalesDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetSucursalesDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetSucursalesDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetSucursalesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:33:57.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PostSucursalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PostSucursalDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PostSucursalDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PostSucursalDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PostSucursalDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:04:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PostSucursalesDtoValidators.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PostSucursalesDtoValidators.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PostSucursalesDtoValidators.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PostSucursalesDtoValidators.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Validators\\PostSucursalesDtoValidators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:08:49.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PutSucursalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PutSucursalDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PutSucursalDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PutSucursalDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\PutSucursalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:30:01.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetTiposDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetTiposDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetTiposDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetTiposDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetTiposDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:51:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetConfiguracionesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetConfiguracionesDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetConfiguracionesDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetConfiguracionesDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetConfiguracionesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:52:13.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetProvinciasDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetProvinciasDto.cs",
+              "RelativeDocumentMoniker": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetProvinciasDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\Extra\\4) Facultad\\Prog III\\Final\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetProvinciasDto.cs",
+              "RelativeToolTip": "114032 B\u00E1ez Nicol\u00E1s Final Prog III\\Dominio\\GetProvinciasDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:51:35.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
